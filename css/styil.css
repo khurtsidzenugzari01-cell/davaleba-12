@@ -231,3 +231,77 @@
     align-items: center;
     width: 100%;
 }
+.lead{
+    font-size: 64px;
+    margin-top: 30px;
+}
+.lef-div{
+    color: #FFFFFF;
+    max-width: 100%;
+}
+.requ{
+    text-align: center;
+    align-items: center;
+    text-align: left;
+    color: #FFFFFF;
+    font-size:24px;
+    padding-top:50px ;
+    margin-bottom: 24px;
+    margin-left: 59px;
+}
+.compl{
+    max-width: 895px;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    margin-left: 59px;
+    font-size: 20px;
+}
+.div-lef-rigt{
+    background-color: #FF7420;
+    max-width: 963px;
+    height: 661px;
+}
+.nome{
+    margin-top: 20px;
+    max-width: 300px;
+    height: 76px;
+    width: 80%;
+    text-align: center;
+    align-items: center;
+    justify-content: left;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+.email{
+    margin-top: 20px;
+     max-width: 300px;
+    height: 76px;
+    width: 80%;
+    text-align: center;
+    align-items: center;
+    justify-content: left;
+    border-radius: 10px;
+}
+.pone{
+    margin-top: 20px;
+    max-width: 300px;
+    height: 76px;
+    width: 80%;
+    text-align: center;
+    align-items: center;
+    justify-content: left; 
+    margin-left: 50px;
+    border-radius: 10px;
+}
+.pone-1{
+    margin-top: 20px;
+    max-width: 300px;
+    height: 76px;
+    width: 80%;
+    text-align: center;
+    align-items: center;
+    justify-content: left;
+    border-radius: 10px;
+}
