@@ -10,7 +10,7 @@
     justify-content: center;
     align-items: center;
     justify-content: space-between;
-    width: 100%;
+    width: 90%;
     max-width: 1500px;
     margin-left: 131px;
 }
@@ -50,10 +50,10 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 90%;
 }
 .eng-2{
-    width: 100%;
+    width: 90%;
     max-width:165px;
     height: 66px;
     color: #FFFFFF;
@@ -82,10 +82,11 @@
 .section{
     max-width:1728px;
     height: 500px;
+    width: 90%;
 }
 .div-1{
     max-width: 1728px;
-    width: 100%;
+    width: 90%;
     font: inherit;
     vertical-align: baseline;
 }
@@ -94,7 +95,7 @@
 }
 .img{
     max-width: 1728px;
-    width: 100%;
+    width: 90%;
 }
 .div-3{
    color: #FFFFFF;
@@ -137,7 +138,8 @@
 }
 .view{
     background-color: #FFFFFF;
-    width:208px;
+    max-width:208px;
+    width: 100%;
     height: 66px;
     color: #191A19;
     border-radius: 20px;
@@ -204,7 +206,7 @@
     margin-left: 15px;
     margin-right: 15px;
     max-width:485px ;
-    width: 100%;
+    width: 90%;
 }
 .im-4{
     max-width: 485px;
@@ -235,7 +237,7 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 90%;
 }
 .lead{
     font-size: 64px;
@@ -243,7 +245,7 @@
 }
 .lef-div{
     color: #FFFFFF;
-    max-width: 100%;
+    max-width: 90%;
 }
 .requ{
     text-align: center;
@@ -268,6 +270,7 @@
     background-color: #FF7420;
     max-width: 963px;
     height: 661px;
+    width: 90%;
 }
 .nome{
     margin-top: 20px;
@@ -341,7 +344,7 @@
     justify-content: center;
     align-items: center;
     max-width: 1728px;
-    width: 100%;
+    width: 90%;
     background-color: #191A19;
 }
 .rig-div{
