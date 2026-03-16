@@ -357,6 +357,9 @@
     gap:0px;
 }
 .contact-us{
+    margin-left: 20px;
+    margin-top: 50px;
+    padding-top: 30px;
     background-color: #191A19;
     color: #FFFFFF;
     width:384px;
@@ -365,4 +368,47 @@
     text-align: center;
     align-items: center;
     justify-content: center;
+}
+.con-2{
+    color: #FFFFFF;
+    font-size: 24px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.con-3{
+    color: #FFFFFF;
+}
+.o-1{
+margin-left:20px ;
+margin-bottom: 20px;
+font-size: 16px;
+}
+.o-2{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.qui-1{
+    margin-left: 20px;
+    font-size: 16px;
+}
+.quick{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.ope-1{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+.ope{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.do-you{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
 }
