@@ -95,7 +95,7 @@
 }
 .img{
     max-width: 1728px;
-    width: 90%;
+    width: 100%;
 }
 .div-3{
    color: #FFFFFF;
@@ -150,7 +150,8 @@
 }
 .all-1{
     background-color: #FF7420;
-    height: 1000px;
+    max-width: 1728px;
+    width: 100%;
 
 }
 .all{
@@ -179,10 +180,12 @@
     position: relative;
     color: #FFFFFF;
     column-gap: 40px;
-    display: flex;   
+    display: flex;  
+    max-width: 485.24;
+    width: 100%; 
 }
 .li{
-    position: relative;
+    
 }
 .li::after{
      content:"";
@@ -200,13 +203,15 @@
 .img-4{
     display: flex;
     max-width: 1728px;
-    width: 90%;
+    width: 100%;
 }
 .img-5{
     margin-left: 15px;
     margin-right: 15px;
     max-width:485px ;
-    width: 90%;
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .im-4{
     max-width: 485px;
@@ -270,7 +275,7 @@
     background-color: #FF7420;
     max-width: 963px;
     height: 661px;
-    width: 90%;
+    width: 100%;
 }
 .nome{
     margin-top: 20px;
@@ -344,14 +349,14 @@
     justify-content: center;
     align-items: center;
     max-width: 1728px;
-    width: 90%;
+    width: 100%;
     background-color: #191A19;
 }
 .rig-div{
     max-width: 499px;
     height: 661px;
     background-color: #FF7420;
-    width: 90%;
+    width: 100%;
     margin-left: 30px;
     text-align: left;
     align-items: center;
